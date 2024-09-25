@@ -2,16 +2,10 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-template-columns: repeat(2, 200px)
+	grid-template-columns: repeat(2,200px);
 	
 	
 	
 	
 }
 
-.item{
-	width:200px;
-	height:200px;
-	background-color:blue;
-	
-}
